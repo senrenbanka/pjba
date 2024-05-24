@@ -37,7 +37,7 @@ import kotlin.system.exitProcess
 
 
 const val PICK_BIN_FILE = 2
-const val IMG_FILENAME = "exfathax.img"
+const val IMG_FILENAME = "exfathax_pico.img"
 
 class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
 
